@@ -1,15 +1,15 @@
 module.exports = {
   title: `Redonearth Blog`,
-  description: `Blog posted about Programming`,
+  description: `Blog posted about Programming, life, etc.`,
   author: `Redonearth`,
-  introduction: `I explain with words and code. I explain with words and code. I explain with words and code.`,
-  siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
+  introduction: `Web Programmer, SI 2년차 개발자. SI를 벗어나기 위해 노력 중.`,
+  siteUrl: `https://redonearth.netlify.com`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
-    github: ``, // Your GitHub account
+    github: `https://github.com/redonearth`, // Your GitHub account
     medium: ``, // Your Medium account
     facebook: ``, // Your Facebook account
-    linkedin: ``, // Your LinkedIn account
+    linkedin: `https://www.linkedin.com/in/hongjisang`, // Your LinkedIn account
   },
   icon: `content/assets/felog.png`, // Add your favicon
   keywords: [`blog`],
