@@ -6,10 +6,10 @@ module.exports = {
   siteUrl: `https://redonearth.netlify.com`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
-    github: `https://github.com/redonearth`, // Your GitHub account
+    github: `redonearth`, // Your GitHub account
     medium: ``, // Your Medium account
     facebook: ``, // Your Facebook account
-    linkedin: `https://www.linkedin.com/in/hongjisang`, // Your LinkedIn account
+    linkedin: `hongjisang`, // Your LinkedIn account
   },
   icon: `content/assets/felog.png`, // Add your favicon
   keywords: [`blog`],
