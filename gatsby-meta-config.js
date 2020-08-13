@@ -5,10 +5,10 @@ module.exports = {
   introduction: `Web Programmer, SI 2년차 개발자. SI를 벗어나기 위해 노력 중.`,
   siteUrl: `https://redonearth.netlify.com`, // Your blog site url
   social: {
-    twitter: ``, // Your Twitter account
+    twitter: `redonearth_dev`, // Your Twitter account
     github: `redonearth`, // Your GitHub account
     medium: ``, // Your Medium account
-    facebook: ``, // Your Facebook account
+    facebook: `redonearth`, // Your Facebook account
     linkedin: `hongjisang`, // Your LinkedIn account
   },
   icon: `content/assets/felog.png`, // Add your favicon
@@ -21,7 +21,7 @@ module.exports = {
     countOfInitialPost: 10, // Config your initial count of post
   },
   sponsor: {
-    buyMeACoffeeId: 'jbee',
+    buyMeACoffeeId: 'redonearth',
   },
   share: {
     facebookAppId: '', // Add facebookAppId for using facebook share feature v3.2
