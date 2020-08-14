@@ -14,6 +14,7 @@ import { PostNavigator } from '../components/post-navigator'
 import { Disqus } from '../components/disqus'
 import { Utterences } from '../components/utterances'
 import * as ScrollManager from '../utils/scroll'
+import Adsense from '../constants/adsense'
 
 import '../styles/code.scss'
 import 'katex/dist/katex.min.css'
@@ -43,6 +44,7 @@ export default ({ data, pageContext, location }) => {
       <PostTitle title={postTitle} />
       <PostDate date={date} />
       <PostContainer html={post.html} />
+      <Adsense client="ca-pub-xxx" slot="xxx" />
       {/* <SocialShare title={postTitle} author={author} /> */}
       {!!sponsor.buyMeACoffeeId && (
         <SponsorButton sponsorId={sponsor.buyMeACoffeeId} />
