@@ -1,8 +1,7 @@
 ---
 title: 지방 SI와 나의 현실, 해야 할 노력
-date: 2020-04-19 22:04:35
-category: etc
-thumbnail: './images/hello.png'
+date: 2020-4-19 22:04:35
+category: career
 draft: false
 ---
 

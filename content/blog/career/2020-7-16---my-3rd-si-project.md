@@ -1,7 +1,7 @@
 ---
 title: 세 번째 SI 프로젝트 (feat. 최신 기술)
-date: 2020-07-16 20:04:36
-category: etc
+date: 2020-7-16 20:04:36
+category: career
 draft: false
 ---
 
