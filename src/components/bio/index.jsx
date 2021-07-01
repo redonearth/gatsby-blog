@@ -24,7 +24,14 @@ export const Bio = () => (
               />
               <div className="author-name">
                 <span className="author-name-prefix">Written by</span>
-                <Link to={'/about'} className="author-name-content">
+                <Link
+                  // to={'/about'}
+                  to={
+                    'https://www.notion.so/redonearth/Redonearth-s-Resume-b9a2e826aa62434bb9229cc0c1e70dc9'
+                  }
+                  target={'_blank'}
+                  className="author-name-content"
+                >
                   <span>@{author}</span>
                 </Link>
                 <div className="author-introduction">{introduction}</div>
