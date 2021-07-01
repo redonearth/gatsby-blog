@@ -58,6 +58,20 @@ In this template...
       <li>< Taenylog />: https://taeny.dev/</li>
       <li>brouk's devlog: https://brouk-devlog.netlify.com/</li>
       <li>CoodingPenguin's Repository: https://cooding-penguin.netlify.com/</li>
+      <li>DevRappers.dev: https://devrappers.dev/</li>
+      <li>Let's doodle: https://duduling-blog.netlify.app/</li>
+      <li>Hong_Devlog: https://hong-dev.github.io/</li>
+      <li>samsara-ku's devlog: https://samsara-ku.dev/</li>
+      <li>muse.kim: https://muse.kim/</li>
+      <li>Juunone's devlog: https://juunone.netlify.app/</li>
+      <li>cereme.dev: https://cereme.dev</li>
+      <li>taekki.dev: https://taekki.dev</li>
+      <li>kkh913's Developer Blog: https://kkh913.github.io</li>
+      <li>jeeneee's devlog: https://jeeneee.dev</li>
+      <li>KSP Blog: https://ksp.now.sh</li>
+      <li>bobs log: https://undefine.me</li>
+      <li>Jane's PS Blog: https://janeljs.github.io</li>
+      <li>hedrinker's devlog: https://hexdrinker.dev</li>
     </ul>
   </p>
 </details>
@@ -107,7 +121,7 @@ npm run post
 
 위 커맨드를 입력하면 새로운 포스트가 생성됩니다.
 
-👉 **gatsby-post-gen** CLI 도구를 사용합니다. (https://github.com/JaeYeopHan/gatsby-post-gen)
+👉 **gatsby-post-gen** CLI 도구를 사용합니다. (<https://github.com/JaeYeopHan/gatsby-post-gen>)
 
 ### 4. 메타데이터 수정
 
@@ -174,13 +188,13 @@ src/styles
 - 파비콘 이미지! (replace file in `/content/assets/felog.png`)
 - 헤더의 그라데이션! (\$theme-gradient `/styles/variables.scss`)
 - Utterances를 위한 repository를 설정해주세요! (`/gatsby-meta-config.js`의 repository 주소를 교체해주세요.)
-  - ⚠️ 이 가이드(https://utteranc.es/)를 꼭 확인해주세요.
+  - ⚠️ 이 가이드(<https://utteranc.es/>)를 꼭 확인해주세요.
 
 ## ☕ 마음에 드셨나요?
 
 <a href="https://www.buymeacoffee.com/jbee" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
-## 🤔 만약에...
+## 🤔 만약에
 
 만약 현재 미디엄에서 블로그를 운영중이시라면 마이그레이션을 고려해보세요! [medium-to-own-blog](https://github.com/mathieudutour/medium-to-own-blog)!
 
