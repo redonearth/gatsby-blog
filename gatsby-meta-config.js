@@ -1,13 +1,13 @@
 module.exports = {
   title: `Redonearth Blog`,
-  description: `Blog posted about Programming, life, etc.`,
+  description: `Blog posting about Programming, hobbies, and life.`,
   author: `Redonearth`,
-  introduction: `Web Front-End Developer이자 3년차 개발자. 분당에 서식 중.`,
+  introduction: `Web Front-End Developer이자 4년차 개발자. 분당에 서식 중.`,
   siteUrl: `https://redonearth.netlify.app`, // Your blog site url
   social: {
     twitter: `redonearth_dev`, // Your Twitter account
     github: `redonearth`, // Your GitHub account
-    medium: `redonearth-dev`, // Your Medium account
+    medium: `@redonearth`, // Your Medium account
     facebook: `redonearth`, // Your Facebook account
     linkedin: `hongjisang`, // Your LinkedIn account
     instagram: `redonearth`,
