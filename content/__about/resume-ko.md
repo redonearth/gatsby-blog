@@ -1,13 +1,7 @@
 ---
-title: 'about'
-date: 2020-10-04 19:10:10
+title: 'Redonearth | 이력서'
+date: 2022-02-04 13:51:15
 lang: 'ko'
----
-
-# Redonearth | 이력서
-
-JavaScript를 좋아하고, 실력있는 프론트엔드 개발자가 되고 싶은 SI 출신 개발자입니다.
-
 ---
 
 ## contact\_
@@ -18,33 +12,59 @@ e-mail | **wona23@gmail.com**
 
 GitHub | [https://github.com/redonearth](https://github.com/redonearth)
 
-Blog | [https://redonearth.com/](https://redonearth.com/)
+Instagram | [https://www.instagram.com/redonearth](https://www.instagram.com/redonearth)
 
-Facebook | [https://www.facebook.com/redonearth](https://www.facebook.com/redonearth)
+Blog | [https://redonearth.com](https://redonearth.com)
 
 ## introduce\_
 
-포항에서 철강 분야 MES 시스템 개발 및 각종 SI, SM 프로젝트를 수행하는 회사의 SI 사업부에 재직 중인 2년 차 개발자입니다.
+디피엘 경영관리부 마케팅기획팀 프론트엔드 개발자입니다.
 
-루비 온 레일즈(RoR)로 개발에 입문하여 첫 커리어로 스타트업에서 웹 기획/퍼블리싱/개발을 경험했습니다.
+직업훈련 학교에서 웹 퍼블리싱 기초반을 수료 후 스타트업에 합류해 루비온레일즈(RoR)로 웹 개발이라는 세상을 만났습니다. 첫 커리어로 웹 기획에 참여하면서 디자인과 퍼블리싱을 하며 본격적으로 웹 프로그래밍 언어를 배우기 시작했습니다. 그 후 여러 SI 프로젝트에 참여해 백엔드 개발, 차트 라이브러리 활용 데이터 분석 개발, 화면 설계, DB 설계 등을 수행한 경험이 있습니다.
 
-재직 중인 회사에서 여러 SI 프로젝트를 다니며 백엔드 개발, 차트 라이브러리 활용 데이터 분석 개발, 화면 설계, DB 설계 등을 경험했습니다.
-
-프론트엔드 개발자로 성장하기 위해 퇴근해서 매일 공부하고 있습니다.
+개발 입문 당시부터 관심이 많았던 **프론트엔드 개발의 전문성**을 키우고 싶어서 IT 불모지인 지방을 벗어나 수도권의 회사로 이직하여 커리어를 만들어나가고 있습니다.
 
 ---
 
 ## work experience\_
 
+### (주)디피엘
+
+| **프론트엔드 개발자**
+
+2021.04 ~ 현재
+
+#### Toyota Forklift Korea [2021.07 ~ 현재]
+
+[https://www.toyotaforklift.co.kr/](https://www.toyotaforklift.co.kr/)
+
+> 토요타 지게차 한국 웹사이트 프론트엔드 개발
+
+- Vue 2(with Vue CLI 4), Vue Router, Vuex, JavaScript(ES6)
+- Sass(SCSS), Windi CSS
+- RESTful API(Axios)
+- Webpack, Babel, Prettier, ESLint
+- AWS S3, Cloudfront, Route53
+
+---
+
+#### 온파레트 [2021.04 ~ 현재]
+
+[http://onpallet.co.kr/](http://onpallet.co.kr/)
+
+> 온라인 풀필먼트 견적 제공 서비스를 유지보수, 기존 로직 개선(jQuery 제거), 추가 기능 개발
+
+- Vue.js, Vue Router, Vuex, JavaScript(ES6)
+
 ### (주)포엠텍
 
-**SI 사업부 개발자**
+| **SI 사업부 개발자**
 
-2019.06 - 현재
+2019.06 ~ 2021.02
 
-### 벤처플랫폼 정보 포털 구축 | 포스코 & 포스텍(포항공대) [2020.07 - 진행 중]
+#### 벤처플랫폼 정보 포털 구축 | 포스코 & 포스텍(포항공대) [2020.07 - 진행 중]
 
-포스코 벤처밸리 홍보, 투자 유치, 기업 육성을 위한 정보를 포털 사이트 형식으로 구축하는 프로젝트에서 [벤처 투자/육성 DB] 시스템을 설계 및 개발을 담당했습니다.
+> 포스코 벤처밸리 홍보, 투자 유치, 기업 육성을 위한 정보를 포털 사이트 형식으로 구축하는 프로젝트에서 [벤처 투자/육성 DB] 시스템 설계 및 개발
 
 - Front-End : JavaScript(jQuery)
 - Back-End : Java, JSP, Glue Framework, Spring MVC, Maven, Tomcat, JBoss
@@ -52,9 +72,9 @@ Facebook | [https://www.facebook.com/redonearth](https://www.facebook.com/redone
 
 ---
 
-### MWiz Demo 개발 | (주)포엠텍 [2020.05 - 2020.07]
+#### MWiz Demo 개발 | (주)포엠텍 [2020.05 - 2020.07]
 
-포엠텍 MES 솔루션인 MWiz의 강관 제작 회사 납품을 위한 Demo 버전 개발에 참여했습니다.
+> 포엠텍 MES 솔루션인 MWiz의 강관 제작 회사 납품을 위한 Demo 버전 협업 개발
 
 - Front-End : HTML5, CSS3, JavaScript(jQuery), AX5UI
 - Back-End : Java, Pomtec Framework(Spring based), Maven, MyBatis
@@ -63,9 +83,9 @@ Facebook | [https://www.facebook.com/redonearth](https://www.facebook.com/redone
 
 ---
 
-### 열연 Data 분석 시스템 개발 | 포스코 [2019.12 - 2020.04]
+#### 열연 Data 분석 시스템 개발 | 포스코 [2019.12 - 2020.04]
 
-열연 데이터를 분석 및 활용할 수 있도록 테이블 및 차트로 구성된 기존 시스템(HOPES)을 변경 및 개선하는 프로젝트에서 담당 화면 개발 업무를 수행했습니다.
+> 열연 데이터를 분석 및 활용할 수 있도록 테이블 및 차트로 구성된 기존 시스템(HOPES)을 변경 및 개선하는 프로젝트에서 담당 화면 개발
 
 - Front-End : HTML4.01, CSS3, JavaScript, jQuery, Highcharts.js Library
 - Back-End : Java, JSP, Glue Framework, Maven, JBoss(WAS)
@@ -73,9 +93,9 @@ Facebook | [https://www.facebook.com/redonearth](https://www.facebook.com/redone
 
 ---
 
-### 중기외주생산관리시스템 개발 | 현대제철 [2019.07 - 2019.11]
+#### 중기외주생산관리시스템 개발 | 현대제철 [2019.07 - 2019.11]
 
-구 CS 프로그램을 웹 버전으로 컨버전 및 개선하는 프로젝트에서 개발을 담당했습니다.
+> 구 CS 프로그램을 웹 버전으로 컨버전 및 개선하는 프로젝트에서 기능 개발
 
 - Front-End : HTML4.01, CSS3, JavaScript, jQuery
 - Back-End : Java(Struts + Spring), JSP, Maven, iBatis, Jeus WAS & WebToB
@@ -85,27 +105,63 @@ Facebook | [https://www.facebook.com/redonearth](https://www.facebook.com/redone
 
 ### OD4U
 
-**웹 개발자**
+| **웹 개발자**
 
 2019.03 - 2019.05
 
-- 웹 퍼블리싱
-- 그누보드 기반 PHP 웹 어플리케이션 개발 및 유지보수
-- 네이버 클라우드 플랫폼 지도 API 활용 프론트엔드 개발
-- Node.js 웹 어플리케이션 개발 스택 결정 및 DB 설계
-- 리눅스 서버 관리
+#### 길위의인문학
+
+> 그누보드 기반 PHP 웹 어플리케이션 개발 및 유지보수
+
+#### 엔스킨
+
+> 웹 퍼블리싱 및 PHP 웹 어플리케이션 개발 및 유지보수
+
+#### 오디퀵
+
+> PHP 웹 어플리케이션 백엔드 및 네이버 클라우드 플랫폼 지도 API 활용 JavaScript 개발
+
+#### 병원 CRM
+
+> Node.js 웹 어플리케이션 개발 스택 결정 및 DB 설계에 참여
+
+### 포항제철공업고등학교
+
+> 그누보드 기반 PHP 웹 어플리케이션 신규 제작에 참여
+
+### 기타
+
+> 리눅스 서버 관리
 
 ---
 
 ### 일리오
 
-**개발자 & 디자이너**
+| **개발자 & 디자이너**
 
 2016.08 - 2017.06
 
-- CI, BI 제작 등 디자인
-- 웹 서비스 팀원으로 회사 랜딩 페이지 퍼블리싱 및 프론트엔드 개발
-- 온라인 박람회 VR 체험뷰 프로그램을 웹 서비스 가능하도록 연동
+#### 디자인
+
+> CI, BI 제작 등 디자인 작업
+
+- Adobe Illustrator, Photoshop
+
+---
+
+#### 랜딩 페이지 제작
+
+> 회사 랜딩 페이지 퍼블리싱
+
+- HTML, CSS, JavaScript, PHP(CodeIgniter Framework)
+
+---
+
+#### VRIEF
+
+> 온라인 박람회 VR 체험뷰 프로그램(Unity)을 웹 서비스와 연동 개발 협업
+
+- HTML, CSS, JavaScript, Bootstrap(ver 3), WebGL
 
 ---
 
