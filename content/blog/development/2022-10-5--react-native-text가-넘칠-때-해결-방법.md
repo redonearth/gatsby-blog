@@ -1,5 +1,5 @@
 ---
-title: [React Native] Text가 넘칠 때 해결 방법
+title: '[React Native] Text가 넘칠 때 해결 방법'
 date: 2022-10-05 19:10:47
 category: development
 draft: false
