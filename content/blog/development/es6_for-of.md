@@ -1,5 +1,5 @@
 ---
-title: ES6_for...of
+title: '[ES6] for...of'
 date: 2022-10-21 21:10:53
 category: development
 draft: false
@@ -9,7 +9,7 @@ draft: false
 
 - `iterable`(반복가능한) 객체(`Array`, `String`, `Map`, `Set`, `NodeList` 등)에서 사용할 수 있다.
 
-  forEach는 Array에서만 쓸 수 있다.
+  forEach는 _Array_ 에서만 쓸 수 있다.
 
 - `const` 대신 `let`도 사용할 수 있다.
 
