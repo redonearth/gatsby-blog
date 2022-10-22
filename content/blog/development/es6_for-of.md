@@ -15,32 +15,32 @@ draft: false
 
 - Loop를 멈출 수 있다.
 
-  ```js
-  const foods = [
-    'Pizza',
-    'Chicken',
-    'Burger',
-    'Pasta',
-    'Bibimbap',
-    'Sandwich',
-    'Barbecue',
-  ]
+```js
+const foods = [
+  'Pizza',
+  'Chicken',
+  'Burger',
+  'Pasta',
+  'Bibimbap',
+  'Sandwich',
+  'Barbecue',
+]
 
-  for (const food of foods) {
-    if (food === 'Bibimbap') {
-      break
-    } else {
-      console.log(food)
-    }
+for (const food of foods) {
+  if (food === 'Bibimbap') {
+    break
+  } else {
+    console.log(food)
   }
-  ```
+}
+```
 
-  ```js
-  // Pizza
-  // Chicken
-  // Burger
-  // Pasta
-  ```
+```js
+// Pizza
+// Chicken
+// Burger
+// Pasta
+```
 
 ### 참고 링크
 
